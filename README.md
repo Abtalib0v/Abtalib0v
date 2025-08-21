@@ -1,2 +1,4 @@
 # I'm Adil Abtalibov 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abtalib0v)](https://github.com/Abtalib0v/github-readme-stats)
+<img alt="add stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Abtalib0v&show_icons=true"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtalib0v&layout=compact"/>
